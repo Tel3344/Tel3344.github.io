@@ -1,0 +1,13 @@
+# 忽略Hexo生成的公共文件夹
+public/
+# 忽略Hexo的部署目录
+.deploy*/
+# 忽略依赖包目录（可通过npm install重新安装）
+node_modules/
+# 忽略调试或日志文件
+*.log
+# 忽略系统产生的文件
+Thumbs.db
+.DS_Store
+db.json
+_multiconfig.yml
